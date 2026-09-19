@@ -2,11 +2,11 @@
 
 Practice assignments completed while learning prompt engineering with Python.
 
-## How to run
+## How to install libraries 
 1. Install the library: `python -m pip install textblob nltk`
 2. Run a task: `python task1.py`
 
-## Contents
+## Sentiment-analysis Contents
 - **927.4.1_Sentiment-analysis**: sentiment analysis with TextBlob (Tasks 1–3)
 - **NLTK_Lab**: NLTK labs on NER, stemming, lemmatization, and POS tagging
 
