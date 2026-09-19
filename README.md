@@ -8,7 +8,7 @@ Practice assignments completed while learning prompt engineering with Python.
 3. Run a task: `python task1.py`
 
 ## Contents
-- **927.4.1_Sentiment-analysis**: sentiment analysis with TextBlob (Tasks 1–3). Course lesson: [Sentiment Analysis and Semantic Understanding](https://perscholas.instructure.com/courses/3601/pages/lesson-927-dot-4-sentiment-analysis-and-semantic-understanding)
+- **927.4.1_Sentiment-analysis**: sentiment analysis with TextBlob (Tasks 1–3)
 - **NLTK_Lab**: NLTK labs on NER, stemming, lemmatization, and POS tagging
 
 ## NLTK Lab
